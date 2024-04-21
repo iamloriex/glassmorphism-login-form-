@@ -9,4 +9,4 @@ This project is a simple and elegant login form designed using the Glassmorphism
 - Form validation to ensure user input is correct and complete.
 
 ## How to Use
-To use this login form in your project, simply download the project files and include them in your HTML file.
+To use this login form in your project, simply download the project files and include them in your HTML file
